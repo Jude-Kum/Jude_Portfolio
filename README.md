@@ -1,6 +1,6 @@
 #Jude_Portfolio
 
-Project 1: What causes a heart condition?
+[Project 1: What causes a heart condition?](https://github.com/Judedatascientist/Jude_Portfolio)
 
 . Used exploratory tools to identify factors that discrimiate betwwen heart disease patients and those without heart disease.
 
