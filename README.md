@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+#Jude_Portfolio
 
-You can use the [editor on GitHub](https://github.com/Judedatascientist/Jude_Portfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Project 1: What causes a heart condition?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+. Used exploratory tools to identify factors that discrimiate betwwen heart disease patients and those without heart disease.
 
-### Markdown
+. Using logistic regression and random forest algorithms to predict patietns with heart disease condition.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Overview 
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+British Medical Journal """Angina pectoris (derived from the Latin verb ‘angere’ to strangle) is chest discomfort of cardiac origin. It is a common clinical manifestation of IHD with an estimated prevalence of 3%–4% in UK adults"""
 
-- Bulleted
-- List
+(Ford TJ, Berry CAngina: contemporary diagnosis and managementHeart 2020;106:387-398.)
 
-1. Numbered
-2. List
+Introduction
 
-**Bold** and _Italic_ and `Code` text
+In order to answer the question of what causes a heart condition, heavy domain expertise on heart disease is required. This is because understanding what the variables actually measure and how they are measured is vital in determining causes of heart disease.
 
-[Link](url) and ![Image](src)
-```
+According to the NHS website (reference: https://www.nhs.uk/conditions/coronary-heart-disease/), Coronary Heart disease (CHD) is responsible for a large number of deaths globally. Another name is Ischaemic Heart diesease.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+With the prevalence of coronavirus, the British Heart Foundation (BHF https://www.bhf.org.uk/informationsupport/heart-matters-magazine/news/coronavirus-and-your-health) has declared that patients with a heart disease are more at risk of complications from coronavirus.
 
-### Jekyll Themes
+References
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Judedatascientist/Jude_Portfolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+https://www.bhf.org.uk/informationsupport/heart-matters-magazine/medical/angina-common-questions#:~:text=Angina%20is%20a%20symptom%20caused,%2C%20jaw%2C%20back%20or%20stomach.
 
-### Support or Contact
+(reference: https://www.nhs.uk/conditions/coronary-heart-disease/),
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+https://www.bhf.org.uk/informationsupport/heart-matters-magazine/news/coronavirus-and-your-health
