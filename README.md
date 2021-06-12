@@ -1,4 +1,4 @@
-#Jude_Portfolio
+#Jude_Data_Science_Portfolio_Projects
 
 [Project 1: What causes a heart condition?](https://github.com/Judedatascientist/Jude_Portfolio)
 
