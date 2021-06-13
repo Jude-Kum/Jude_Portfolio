@@ -1,4 +1,4 @@
-#Jude_Data_Science_Portfolio_Projects
+# DATA SCIENCE PROJECTS
 
 [Project 1: Predicting heart disease in patients.](https://github.com/Judedatascientist/Jude_Portfolio)
 
