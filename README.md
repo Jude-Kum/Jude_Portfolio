@@ -4,7 +4,7 @@
 
 ## Objective: Predict patients with heart disease.
 
-. Used exploratory tools to identify factors that discrimiate betwwen heart disease patients and those without heart disease...
+. Used exploratory tools to identify factors that discriminate betwwen heart disease patients and those without heart disease.
 
 . Using logistic regression and random forest algorithms to predict patients with heart disease condition.
 
@@ -24,8 +24,8 @@ According to the [NHS](https://www.nhs.uk/conditions/coronary-heart-disease/ "NH
 
 References
 
-https://www.bhf.org.uk/informationsupport/heart-matters-magazine/medical/angina-common-questions#:~:text=Angina%20is%20a%20symptom%20caused,%2C%20jaw%2C%20back%20or%20stomach
+[https://www.bhf.org.uk/informationsupport/heart-matters-magazine/medical/angina-common-questions#:~:text=Angina%20is%20a%20symptom%20caused,%2C%20jaw%2C%20back%20or%20stomach]
 
- https://www.nhs.uk/conditions/coronary-heart-disease/
+ [https://www.nhs.uk/conditions/coronary-heart-disease/]
 
-https://www.bhf.org.uk/informationsupport/heart-matters-magazine/news/coronavirus-and-your-health
+[https://www.bhf.org.uk/informationsupport/heart-matters-magazine/news/coronavirus-and-your-health]
