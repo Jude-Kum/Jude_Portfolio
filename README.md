@@ -1,10 +1,10 @@
 #Jude_Data_Science_Portfolio_Projects
 
-[Project 1: What causes a heart condition?](https://github.com/Judedatascientist/Jude_Portfolio)
+[Project 1: Predicting heart disease in patients.](https://github.com/Judedatascientist/Jude_Portfolio)
 
 . Used exploratory tools to identify factors that discrimiate betwwen heart disease patients and those without heart disease...
 
-. Using logistic regression and random forest algorithms to predict patietns with heart disease condition.
+. Using logistic regression and random forest algorithms to predict patients with heart disease condition.
 
 Overview 
 
