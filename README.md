@@ -2,7 +2,7 @@
 
 [Project 1: What causes a heart condition?](https://github.com/Judedatascientist/Jude_Portfolio)
 
-. Used exploratory tools to identify factors that discrimiate betwwen heart disease patients and those without heart disease.
+. Used exploratory tools to identify factors that discrimiate betwwen heart disease patients and those without heart disease...
 
 . Using logistic regression and random forest algorithms to predict patietns with heart disease condition.
 
